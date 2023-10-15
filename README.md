@@ -2,7 +2,7 @@
 
 **Bubble Sort** : This is a simple comparison-based algorithm where the list is repeatedly traversed, and adjacent elements are swapped if they are in the wrong order.
 
-#Searching_Algorithms
+# Searching_Algorithms
 
 - A search algorithm is an algorithm designed to solve a search problem. Search algorithm work to retrieve information stored within particular data structure, or calculated within a search space in a problem domain, with either discrete or continous values.
 
